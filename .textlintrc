@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "warning-word": {
+      "rulePaths" : ["warning_word.yml"]
+    }
+  }
+}

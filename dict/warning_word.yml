@@ -1,0 +1,9 @@
+version: 1
+
+rules:
+  #String
+  - /word/
+  - /文字列/
+  #Regular expression
+  - /[0-9]+/
+  - /[a-zA-Z!-/:-@\[-`{-~]+/

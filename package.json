@@ -1,0 +1,31 @@
+{
+  "name": "textlint-rule-warning-word",
+  "version": "2.0.2",
+  "description": "Textlint rules to point out warnings to words.",
+  "main": "lib/textlint-rule-warning-word.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "textlint-scripts": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "textlint-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teraguc/textlint-rule-warning-word.git"
+  },
+  "keywords": [
+    "textlint",
+    "rule",
+    "textlintrule"
+  ],
+  "author": "teraguc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teraguc/textlint-rule-warning-word/issues"
+  },
+  "homepage": "https://github.com/teraguc/textlint-rule-warning-word#readme"
+}
